@@ -4,8 +4,8 @@
 # CANADA - CA| CANADA
 # ============================================
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/default.png" tvg-name="ICI RDI"  group-title="CA| CANADA",ICI RDI
-https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master.m3u8
+#EXTINF:-1, tvg-id="IciRDI.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" tvg-name="ICI RDI"  group-title="CA| CANADA",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/default.png" tvg-name="ICI Tele Quebec HD "  group-title="CA| CANADA",ICI Tele Quebec HD
 http://tv14s.xyz:8080/A1Jay5/362586/57493?checkedby:alliptvlinks.com
