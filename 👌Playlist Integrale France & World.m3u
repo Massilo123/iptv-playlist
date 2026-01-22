@@ -3,6 +3,9 @@
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/TVS.png" tvg-name="TVS Senegal"  group-title="AF| AFRIQUE",TVS Senegal
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/112717
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/TVS.png" tvg-name="Cartoon network"  group-title="CA| can",Cartoon network
+http://cord-cutter.net:8080/k4Svp2/645504/57356?checkedby:alliptvlinks.com
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/VST.png" tvg-name="VSTV"  group-title="AF| AFRIQUE",VSTV
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/319645
 
@@ -3911,5 +3914,6 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70434
 
 #EXTINF:-1, tvg-id="nflnetwork.us" tvg-logo="http://safiafamily.com/uploads/family/usa/NFL-Now---Channel-logo.png" tvg-name="NFL Now"  group-title="USA| NBA NFL NHL MLB",NFL Now
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/313576
+
 
 
