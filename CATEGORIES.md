@@ -1,0 +1,28 @@
+# Catégories
+
+## AF - Afrique
+- AF| AFRIQUE
+- AF| DSTV AFRIQUE
+
+## AR - Maghreb
+- AR| ALGERIE
+- AR| MAROC
+- AR| TUNISIE
+
+## CA - Canada
+- CA| CANADA
+
+## FR - France
+- FR| ACTUALITES
+- FR| CANAL+ AFRIQUE
+- FR| CINEMA
+- FR| DOCUMENTAIRE
+- FR| FRANCE
+- FR| JEUNESSE
+- FR| MUSIQUE
+- FR| SPORTS
+
+## US - États-Unis
+- US| SPORTS
+- US| USA
+- USA| NBA NFL NHL MLB

@@ -1,10 +1,37 @@
-#EXTM3U
+﻿#EXTM3U
+
+# ============================================
+# AFRIQUE - AF| AFRIQUE
+# ============================================
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/TVS.png" tvg-name="TVS Senegal"  group-title="AF| AFRIQUE",TVS Senegal
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/112717
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/TVS.png" tvg-name="Cartoon network"  group-title="CA| can",Cartoon network
+# ============================================
+# CANADA - CA| CANADA
+# ============================================
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/default.png" tvg-name="Cartoon Network E alliptvlinks.com"  group-title="CA| CANADA",Cartoon Network E alliptvlinks.com
 http://cord-cutter.net:8080/k4Svp2/645504/57356?checkedby:alliptvlinks.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/default.png" tvg-name="ICI RDI D Backup NO_1"  group-title="CA| CANADA",ICI RDI D Backup NO_1
+http://cord-cutter.net:8080/k4Svp2/645504/164369?checkedby:alliptvlinks.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/default.png" tvg-name="ICI Tele Quebec HD D"  group-title="CA| CANADA",ICI Tele Quebec HD D
+http://tv14s.xyz:8080/A1Jay5/362586/57493?checkedby:alliptvlinks.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/default.png" tvg-name="RDS2 HD B"  group-title="CA| CANADA",RDS2 HD B
+http://cord-cutter.net:8080/k4Svp2/645504/57490?checkedby:alliptvlinks.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/default.png" tvg-name="Teletoon East E"  group-title="CA| CANADA",Teletoon East E
+http://cord-cutter.net:8080/k4Svp2/645504/57372?checkedby:alliptvlinks.com
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/default.png" tvg-name="TSN 1 E"  group-title="CA| CANADA",TSN 1 E
+http://cord-cutter.net:8080/k4Svp2/645504/57292?checkedby:alliptvlinks.com
+
+# ============================================
+# AFRIQUE - AF| AFRIQUE
+# ============================================
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/VST.png" tvg-name="VSTV"  group-title="AF| AFRIQUE",VSTV
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/319645
@@ -294,26 +321,9 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/319643
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://vod-logo.net/photos/1447190aa395879f5305de2dd08baf67.jpg" tvg-name="A12 TV"  group-title="AF| AFRIQUE",A12 TV
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/68418
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/CRTV.png" tvg-name="CRTV"  group-title="AF| CAMEROUN",CRTV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/264393
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/Vox-Afrique--NEWS.png" tvg-name="VOX AFRICA News"  group-title="AF| CAMEROUN",VOX AFRICA News
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/264397
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african_canal/VOX-AFRICA-English-TV.png" tvg-name="VOX AFRICA English"  group-title="AF| CAMEROUN",VOX AFRICA English
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/322206
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/CAMERON_Afrique_Media_TV.png" tvg-name="Afrique Media TV"  group-title="AF| CAMEROUN",Afrique Media TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/264396
-
-#EXTINF:-1, tvg-id="Africanews.cg" tvg-logo="http://safiafamily.com/uploads/family/africaDSTV/Africa_News.png" tvg-name="Africa News"  group-title="AF| CAMEROUN",Africa News
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/60991
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african_canal/VOXrica-TV.png" tvg-name="VOXrica"  group-title="AF| CAMEROUN",VOXrica
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/322171
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/Vox-TV.png" tvg-name="VOX TV"  group-title="AF| CAMEROUN",VOX TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/319637
+# ============================================
+# DSTV AFRIQUE - AF| DSTV AFRIQUE
+# ============================================
 
 #EXTINF:-1, tvg-id="SABC1.za" tvg-logo="http://safiafamily.com/uploads/family/africaDSTV/SABC-1.png" tvg-name="SABC 1"  group-title="AF| DSTV AFRIQUE",SABC 1
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/61067
@@ -726,173 +736,189 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/60946
 #EXTINF:-1, tvg-id="KykNetNou.za" tvg-logo="http://safiafamily.com/uploads/family/africaDSTV/kyk-Net-Nou.png" tvg-name="kyk NET Nou!"  group-title="AF| DSTV AFRIQUE",kyk NET Nou!
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/61038
 
-#EXTINF:-1, tvg-id="CanalAlgérie.ar" tvg-logo="http://safiafamily.com/uploads/family/algeria/Canal_Algerie_ENTV_2.png" tvg-name="Canal Algerie [ ENTV 2 ]  ✦"  group-title="AR| ALGERIE",Canal Algerie [ ENTV 2 ]  ✦
+# ============================================
+# ALGERIE - AR| ALGERIE
+# ============================================
+
+#EXTINF:-1, tvg-id="CanalAlgÃ©rie.ar" tvg-logo="http://safiafamily.com/uploads/family/algeria/Canal_Algerie_ENTV_2.png" tvg-name="Canal Algerie [ ENTV 2 ]  âœ¦"  group-title="AR| ALGERIE",Canal Algerie [ ENTV 2 ]  âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/92247
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/El_Bilad_TV.png" tvg-name="El Bilad TV ✦"  group-title="AR| ALGERIE",El Bilad TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/El_Bilad_TV.png" tvg-name="El Bilad TV âœ¦"  group-title="AR| ALGERIE",El Bilad TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/6541
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/EnNahar_TV.png" tvg-name="EnNahar TV ✦"  group-title="AR| ALGERIE",EnNahar TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/EnNahar_TV.png" tvg-name="EnNahar TV âœ¦"  group-title="AR| ALGERIE",EnNahar TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/5749
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/El_Djazairia_N1.png" tvg-name="El Djazairia N1 ✦"  group-title="AR| ALGERIE",El Djazairia N1 ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/El_Djazairia_N1.png" tvg-name="El Djazairia N1 âœ¦"  group-title="AR| ALGERIE",El Djazairia N1 âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/29130
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/L_Watania_TV_Algeria.png" tvg-name="EL Watania TV Algeria ✦"  group-title="AR| ALGERIE",EL Watania TV Algeria ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/L_Watania_TV_Algeria.png" tvg-name="EL Watania TV Algeria âœ¦"  group-title="AR| ALGERIE",EL Watania TV Algeria âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/174731
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Echorouk_TV.png" tvg-name="Echorouk TV  ✦"  group-title="AR| ALGERIE",Echorouk TV  ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Echorouk_TV.png" tvg-name="Echorouk TV  âœ¦"  group-title="AR| ALGERIE",Echorouk TV  âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/72624
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Algeria_Elmaarifa_TV_Coran.png" tvg-name="Algerie Elmaarifa TV7 ✦"  group-title="AR| ALGERIE",Algerie Elmaarifa TV7 ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Algeria_Elmaarifa_TV_Coran.png" tvg-name="Algerie Elmaarifa TV7 âœ¦"  group-title="AR| ALGERIE",Algerie Elmaarifa TV7 âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/105054
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Samira_TV.png" tvg-name="Samira TV  ✦"  group-title="AR| ALGERIE",Samira TV  ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Samira_TV.png" tvg-name="Samira TV  âœ¦"  group-title="AR| ALGERIE",Samira TV  âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/6524
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Algirie_tamazight_tv4.png" tvg-name="Algerie Tamazight TV4 ✦"  group-title="AR| ALGERIE",Algerie Tamazight TV4 ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Algirie_tamazight_tv4.png" tvg-name="Algerie Tamazight TV4 âœ¦"  group-title="AR| ALGERIE",Algerie Tamazight TV4 âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/29129
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Zahra_TV.png" tvg-name="Zahra TV ✦"  group-title="AR| ALGERIE",Zahra TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Zahra_TV.png" tvg-name="Zahra TV âœ¦"  group-title="AR| ALGERIE",Zahra TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/338033
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Algerie_Edhakkira_8_TV.png" tvg-name="Algerie Edhakira TV8 ✦"  group-title="AR| ALGERIE",Algerie Edhakira TV8 ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Algerie_Edhakkira_8_TV.png" tvg-name="Algerie Edhakira TV8 âœ¦"  group-title="AR| ALGERIE",Algerie Edhakira TV8 âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/105055
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Echorouk_News_HD.png" tvg-name="Echorouk News HD  ✦"  group-title="AR| ALGERIE",Echorouk News HD  ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Echorouk_News_HD.png" tvg-name="Echorouk News HD  âœ¦"  group-title="AR| ALGERIE",Echorouk News HD  âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/72623
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Al_Anis_tv.png" tvg-name="Al-Anis TV ✦"  group-title="AR| ALGERIE",Al-Anis TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Al_Anis_tv.png" tvg-name="Al-Anis TV âœ¦"  group-title="AR| ALGERIE",Al-Anis TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/338032
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Algeria_TV_Coran.png" tvg-name="Algeria TV Coran [ Algerie 5 ] ✦"  group-title="AR| ALGERIE",Algeria TV Coran [ Algerie 5 ] ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Algeria_TV_Coran.png" tvg-name="Algeria TV Coran [ Algerie 5 ] âœ¦"  group-title="AR| ALGERIE",Algeria TV Coran [ Algerie 5 ] âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/29128
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Algerie_2_TV.png" tvg-name="Algerie 2 TV ✦"  group-title="AR| ALGERIE",Algerie 2 TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Algerie_2_TV.png" tvg-name="Algerie 2 TV âœ¦"  group-title="AR| ALGERIE",Algerie 2 TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/105053
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Algerie_3_TV.png" tvg-name="Algerie 3 TV [ A3 ]  ✦"  group-title="AR| ALGERIE",Algerie 3 TV [ A3 ]  ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Algerie_3_TV.png" tvg-name="Algerie 3 TV [ A3 ]  âœ¦"  group-title="AR| ALGERIE",Algerie 3 TV [ A3 ]  âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/6440
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Algerie_6_TV.png" tvg-name="Algerie 6 TV ✦"  group-title="AR| ALGERIE",Algerie 6 TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Algerie_6_TV.png" tvg-name="Algerie 6 TV âœ¦"  group-title="AR| ALGERIE",Algerie 6 TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/71207
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Al_Heddaf_TV.png" tvg-name="Al Heddaf TV ✦"  group-title="AR| ALGERIE",Al Heddaf TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Al_Heddaf_TV.png" tvg-name="Al Heddaf TV âœ¦"  group-title="AR| ALGERIE",Al Heddaf TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/6540
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Al_Fajer_1_HD.png" tvg-name="Al Fajer 1 HD ✦"  group-title="AR| ALGERIE",Al Fajer 1 HD ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Al_Fajer_1_HD.png" tvg-name="Al Fajer 1 HD âœ¦"  group-title="AR| ALGERIE",Al Fajer 1 HD âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/99752
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Al_Bahia_TV.png" tvg-name="Al Bahia TV ✦"  group-title="AR| ALGERIE",Al Bahia TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Al_Bahia_TV.png" tvg-name="Al Bahia TV âœ¦"  group-title="AR| ALGERIE",Al Bahia TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/6550
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Berbere_TV.png" tvg-name="Berbere TV ✦"  group-title="AR| ALGERIE",Berbere TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Berbere_TV.png" tvg-name="Berbere TV âœ¦"  group-title="AR| ALGERIE",Berbere TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/100161
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Al_Hayat_TV_Algerie.png" tvg-name="Al Hayat TV Algerie ✦"  group-title="AR| ALGERIE",Al Hayat TV Algerie ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Al_Hayat_TV_Algerie.png" tvg-name="Al Hayat TV Algerie âœ¦"  group-title="AR| ALGERIE",Al Hayat TV Algerie âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/99750
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Algerie_ENTV_1.png" tvg-name="Algerie [ ENTV 1 ]  ✦"  group-title="AR| ALGERIE",Algerie [ ENTV 1 ]  ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Algerie_ENTV_1.png" tvg-name="Algerie [ ENTV 1 ]  âœ¦"  group-title="AR| ALGERIE",Algerie [ ENTV 1 ]  âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/100160
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/algeria/Al_Maghribia_TV.png" tvg-name="Al Maghribia TV"  group-title="AR| ALGERIE",Al Maghribia TV
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/408385
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Arryadia_HD.png" tvg-name="Arryadia HD ✦"  group-title="AR| MAROC",Arryadia HD ✦
+# ============================================
+# MAROC - AR| MAROC
+# ============================================
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Arryadia_HD.png" tvg-name="Arryadia HD âœ¦"  group-title="AR| MAROC",Arryadia HD âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/99409
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Canal_Atlas.png" tvg-name="Canal Atlas  ✦"  group-title="AR| MAROC",Canal Atlas  ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Canal_Atlas.png" tvg-name="Canal Atlas  âœ¦"  group-title="AR| MAROC",Canal Atlas  âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/100158
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Al_Aoula_Al_EYoon_1_HD.png" tvg-name="Al Aoula Al Eyoon 1 HD ✦"  group-title="AR| MAROC",Al Aoula Al Eyoon 1 HD ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Al_Aoula_Al_EYoon_1_HD.png" tvg-name="Al Aoula Al Eyoon 1 HD âœ¦"  group-title="AR| MAROC",Al Aoula Al Eyoon 1 HD âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/53168
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Al_Aoula_HD.png" tvg-name="Al Aoula HD ✦"  group-title="AR| MAROC",Al Aoula HD ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Al_Aoula_HD.png" tvg-name="Al Aoula HD âœ¦"  group-title="AR| MAROC",Al Aoula HD âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/2745
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Chada_TV.png" tvg-name="Chada TV ✦"  group-title="AR| MAROC",Chada TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Chada_TV.png" tvg-name="Chada TV âœ¦"  group-title="AR| MAROC",Chada TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/67626
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Laayone_TV.png" tvg-name="Laayoune TV ✦"  group-title="AR| MAROC",Laayoune TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Laayone_TV.png" tvg-name="Laayoune TV âœ¦"  group-title="AR| MAROC",Laayoune TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/99408
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Arryadia_SD.png" tvg-name="Arryadia SD ✦"  group-title="AR| MAROC",Arryadia SD ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Arryadia_SD.png" tvg-name="Arryadia SD âœ¦"  group-title="AR| MAROC",Arryadia SD âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/2746
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/M24_TV.png" tvg-name="M24 TV ✦"  group-title="AR| MAROC",M24 TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/M24_TV.png" tvg-name="M24 TV âœ¦"  group-title="AR| MAROC",M24 TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/33711
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Assadissa_6.png" tvg-name="Assadissa 6 ✦"  group-title="AR| MAROC",Assadissa 6 ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Assadissa_6.png" tvg-name="Assadissa 6 âœ¦"  group-title="AR| MAROC",Assadissa 6 âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/86716
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Medi_1_TV.png" tvg-name="Medi 1 TV [ Arabic ] ✦"  group-title="AR| MAROC",Medi 1 TV [ Arabic ] ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Medi_1_TV.png" tvg-name="Medi 1 TV [ Arabic ] âœ¦"  group-title="AR| MAROC",Medi 1 TV [ Arabic ] âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/13997
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Tee_Maroc_HD.png" tvg-name="Tele Maroc HD ✦"  group-title="AR| MAROC",Tele Maroc HD ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Tee_Maroc_HD.png" tvg-name="Tele Maroc HD âœ¦"  group-title="AR| MAROC",Tele Maroc HD âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/33710
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Medi_1_TV.png" tvg-name="Medi 1 TV [ Maghreb ]  ✦"  group-title="AR| MAROC",Medi 1 TV [ Maghreb ]  ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Medi_1_TV.png" tvg-name="Medi 1 TV [ Maghreb ]  âœ¦"  group-title="AR| MAROC",Medi 1 TV [ Maghreb ]  âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/313970
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Tamazight.png" tvg-name="Tamazight ✦"  group-title="AR| MAROC",Tamazight ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Tamazight.png" tvg-name="Tamazight âœ¦"  group-title="AR| MAROC",Tamazight âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/73533
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Al_Magharibia_.png" tvg-name="Al Maghribia ✦"  group-title="AR| MAROC",Al Maghribia ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Al_Magharibia_.png" tvg-name="Al Maghribia âœ¦"  group-title="AR| MAROC",Al Maghribia âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/10023
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Al_Aoula_Inter.png" tvg-name="Al Aoula Inter ✦"  group-title="AR| MAROC",Al Aoula Inter ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Al_Aoula_Inter.png" tvg-name="Al Aoula Inter âœ¦"  group-title="AR| MAROC",Al Aoula Inter âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/69840
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/2m_Maroc_TV.png" tvg-name="2M Maroc TV [ 2M Monde ] ✦"  group-title="AR| MAROC",2M Maroc TV [ 2M Monde ] ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/2m_Maroc_TV.png" tvg-name="2M Maroc TV [ 2M Monde ] âœ¦"  group-title="AR| MAROC",2M Maroc TV [ 2M Monde ] âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/5800
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Al_Magharibia_TV.png" tvg-name="Al-Magharibia TV ✦"  group-title="AR| MAROC",Al-Magharibia TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Al_Magharibia_TV.png" tvg-name="Al-Magharibia TV âœ¦"  group-title="AR| MAROC",Al-Magharibia TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/10022
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Arrabiaa_4.png" tvg-name="Arrabiaa 4 [ Athaqafia ] ✦"  group-title="AR| MAROC",Arrabiaa 4 [ Athaqafia ] ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/morocco/Arrabiaa_4.png" tvg-name="Arrabiaa 4 [ Athaqafia ] âœ¦"  group-title="AR| MAROC",Arrabiaa 4 [ Athaqafia ] âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/72183
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Watania_1.png" tvg-name="Watania 1 [ Tunisia Nat 1 ] ✦"  group-title="AR| TUNISIE",Watania 1 [ Tunisia Nat 1 ] ✦
+# ============================================
+# TUNISIE - AR| TUNISIE
+# ============================================
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Watania_1.png" tvg-name="Watania 1 [ Tunisia Nat 1 ] âœ¦"  group-title="AR| TUNISIE",Watania 1 [ Tunisia Nat 1 ] âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/71187
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Watania_2.png" tvg-name="Watania 2 [ Tunisia Nat 2 ] ✦"  group-title="AR| TUNISIE",Watania 2 [ Tunisia Nat 2 ] ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Watania_2.png" tvg-name="Watania 2 [ Tunisia Nat 2 ] âœ¦"  group-title="AR| TUNISIE",Watania 2 [ Tunisia Nat 2 ] âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/71188
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Al_Hiwar_AL_Tounsi_TV.png" tvg-name="Al Hiwar Al Tounsi TV ✦"  group-title="AR| TUNISIE",Al Hiwar Al Tounsi TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Al_Hiwar_AL_Tounsi_TV.png" tvg-name="Al Hiwar Al Tounsi TV âœ¦"  group-title="AR| TUNISIE",Al Hiwar Al Tounsi TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/21484
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Al_Insen_TV.png" tvg-name="Al Insen TV ✦"  group-title="AR| TUNISIE",Al Insen TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Al_Insen_TV.png" tvg-name="Al Insen TV âœ¦"  group-title="AR| TUNISIE",Al Insen TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/21487
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Jawahara_TV.png" tvg-name="Al Janoubia TV ✦"  group-title="AR| TUNISIE",Al Janoubia TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Jawahara_TV.png" tvg-name="Al Janoubia TV âœ¦"  group-title="AR| TUNISIE",Al Janoubia TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/14185
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Al_Zaytoona_TV.png" tvg-name="Al Zaytoona TV ✦"  group-title="AR| TUNISIE",Al Zaytoona TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Al_Zaytoona_TV.png" tvg-name="Al Zaytoona TV âœ¦"  group-title="AR| TUNISIE",Al Zaytoona TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/1977
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Tunisna_TV.png" tvg-name="Tunisna TV ✦"  group-title="AR| TUNISIE",Tunisna TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Tunisna_TV.png" tvg-name="Tunisna TV âœ¦"  group-title="AR| TUNISIE",Tunisna TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/21479
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Tunisna_TV.png" tvg-name="Tunisia TV ✦"  group-title="AR| TUNISIE",Tunisia TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Tunisna_TV.png" tvg-name="Tunisia TV âœ¦"  group-title="AR| TUNISIE",Tunisia TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/21483
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Telvza_TV.png" tvg-name="Telvza TV ✦"  group-title="AR| TUNISIE",Telvza TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Telvza_TV.png" tvg-name="Telvza TV âœ¦"  group-title="AR| TUNISIE",Telvza TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/21480
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Nessma_Ejdida.png" tvg-name="Nessma Ejdida ✦"  group-title="AR| TUNISIE",Nessma Ejdida ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Nessma_Ejdida.png" tvg-name="Nessma Ejdida âœ¦"  group-title="AR| TUNISIE",Nessma Ejdida âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/313206
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Jawahara_TV.png" tvg-name="JAWHARA TV ✦"  group-title="AR| TUNISIE",JAWHARA TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Jawahara_TV.png" tvg-name="JAWHARA TV âœ¦"  group-title="AR| TUNISIE",JAWHARA TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/265136
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Hannibal_TV.png" tvg-name="Hannibal TV ✦"  group-title="AR| TUNISIE",Hannibal TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Hannibal_TV.png" tvg-name="Hannibal TV âœ¦"  group-title="AR| TUNISIE",Hannibal TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/71210
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Attessia_TV.png" tvg-name="Attessia TV ✦"  group-title="AR| TUNISIE",Attessia TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Attessia_TV.png" tvg-name="Attessia TV âœ¦"  group-title="AR| TUNISIE",Attessia TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/71949
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Carthage_TV.png" tvg-name="Carthage TV ✦"  group-title="AR| TUNISIE",Carthage TV ✦
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/tunisia/Carthage_TV.png" tvg-name="Carthage TV âœ¦"  group-title="AR| TUNISIE",Carthage TV âœ¦
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/21485
+
+# ============================================
+# FRANCE - ACTUALITES - FR| ACTUALITES
+# ============================================
 
 #EXTINF:-1, tvg-id="lci.fr" tvg-logo="http://safiafamily.com/uploads/family/france/LCI-TV.png" tvg-name="LCI FHD"  group-title="FR| ACTUALITES",LCI FHD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70742
@@ -983,6 +1009,10 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70740
 
 #EXTINF:-1, tvg-id="tv5mondepacifique.fr" tvg-logo="http://safiafamily.com/uploads/family/france/TV5-Monde-Info.png" tvg-name="TV5 Mondo Info HD"  group-title="FR| ACTUALITES",TV5 Mondo Info HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/293286
+
+# ============================================
+# FRANCE - CANAL+ AFRIQUE - FR| CANAL+ AFRIQUE
+# ============================================
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african_canal/2STV-Logo.png" tvg-name="2STV"  group-title="FR| CANAL+ AFRIQUE",2STV
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/322181
@@ -1137,6 +1167,10 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/322122
 #EXTINF:-1, tvg-id="CNNInternationalEurope.us" tvg-logo="http://safiafamily.com/uploads/family/african_canal/cnn-international.png" tvg-name="CNN INTERNATIONAL"  group-title="FR| CANAL+ AFRIQUE",CNN INTERNATIONAL
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/322211
 
+# ============================================
+# FRANCE - CINEMA - FR| CINEMA
+# ============================================
+
 #EXTINF:-1, tvg-id="CanalPlus.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Canal-TV-Channel-France.png" tvg-name="Canal+ HD"  group-title="FR| CINEMA",Canal+ HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70598
 
@@ -1284,6 +1318,10 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70606
 #EXTINF:-1, tvg-id="paramountchannel.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Paramount-Channel.png" tvg-name="Paramount Channel HD"  group-title="FR| CINEMA",Paramount Channel HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70618
 
+# ============================================
+# FRANCE - DOCUMENTAIRE - FR| DOCUMENTAIRE
+# ============================================
+
 #EXTINF:-1, tvg-id="ushuaiatv.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Ushuaia--TV.png" tvg-name="Ushuaia HD+"  group-title="FR| DOCUMENTAIRE",Ushuaia HD+
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654030
 
@@ -1293,7 +1331,7 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70723
 #EXTINF:-1, tvg-id="natgeowild.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Nat-Geo-TV-France.png" tvg-name="Nat Geo WildHD"  group-title="FR| DOCUMENTAIRE",Nat Geo WildHD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70724
 
-#EXTINF:-1, tvg-id="ChasseEtPêche.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Chasse--Peche-TV.png" tvg-name="Chasse & Peche HD"  group-title="FR| DOCUMENTAIRE",Chasse & Peche HD
+#EXTINF:-1, tvg-id="ChasseEtPÃªche.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Chasse--Peche-TV.png" tvg-name="Chasse & Peche HD"  group-title="FR| DOCUMENTAIRE",Chasse & Peche HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654032
 
 #EXTINF:-1, tvg-id="ushuaiatv.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Ushuaia-TV.png" tvg-name="Ushuaia HD"  group-title="FR| DOCUMENTAIRE",Ushuaia HD
@@ -1323,10 +1361,10 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70729
 #EXTINF:-1, tvg-id="ScienceEtVieTV.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Sciences--Vie-TV.png" tvg-name="Sciences & Vie TV"  group-title="FR| DOCUMENTAIRE",Sciences & Vie TV
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70732
 
-#EXTINF:-1, tvg-id="PLANÈTEJustice.fr" tvg-logo="Logo N/A" tvg-name="Planète+ Ci HD"  group-title="FR| DOCUMENTAIRE",Planète+ Ci HD
+#EXTINF:-1, tvg-id="PLANÃˆTEJustice.fr" tvg-logo="Logo N/A" tvg-name="PlanÃ¨te+ Ci HD"  group-title="FR| DOCUMENTAIRE",PlanÃ¨te+ Ci HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/936141
 
-#EXTINF:-1, tvg-id="ChasseEtPêche.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Chasse-Et-Peche-TV.png" tvg-name="Chasse Et Peche HD"  group-title="FR| DOCUMENTAIRE",Chasse Et Peche HD
+#EXTINF:-1, tvg-id="ChasseEtPÃªche.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Chasse-Et-Peche-TV.png" tvg-name="Chasse Et Peche HD"  group-title="FR| DOCUMENTAIRE",Chasse Et Peche HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70731
 
 #EXTINF:-1, tvg-id="canalplusdocs.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Canala-Docs-TV.png" tvg-name="Canal+ Docs HD"  group-title="FR| DOCUMENTAIRE",Canal+ Docs HD
@@ -1341,7 +1379,7 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70720
 #EXTINF:-1, tvg-id="natgeowild.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Nat-Geo-Wild-TV-France.png" tvg-name="Nat Geo Wild HD"  group-title="FR| DOCUMENTAIRE",Nat Geo Wild HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70725
 
-#EXTINF:-1, tvg-id="PlaneteAction.fr" tvg-logo="Logo N/A" tvg-name="Planète+ A&E HD"  group-title="FR| DOCUMENTAIRE",Planète+ A&E HD
+#EXTINF:-1, tvg-id="PlaneteAction.fr" tvg-logo="Logo N/A" tvg-name="PlanÃ¨te+ A&E HD"  group-title="FR| DOCUMENTAIRE",PlanÃ¨te+ A&E HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/936140
 
 #EXTINF:-1, tvg-id="histoire.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Histoire-TV.png" tvg-name="Histoire HD"  group-title="FR| DOCUMENTAIRE",Histoire HD
@@ -1350,8 +1388,12 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70728
 #EXTINF:-1, tvg-id="PlaneteAction.fr" tvg-logo="http://safiafamily.com/uploads/family/france/PLANETE_AE-.png" tvg-name="Planete A&E HD"  group-title="FR| DOCUMENTAIRE",Planete A&E HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70718
 
-#EXTINF:-1, tvg-id="PLANÈTEJustice.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Planete--Cl.png" tvg-name="Planete+ CI HD"  group-title="FR| DOCUMENTAIRE",Planete+ CI HD
+#EXTINF:-1, tvg-id="PLANÃˆTEJustice.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Planete--Cl.png" tvg-name="Planete+ CI HD"  group-title="FR| DOCUMENTAIRE",Planete+ CI HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/125677
+
+# ============================================
+# FRANCE - FR| FRANCE
+# ============================================
 
 #EXTINF:-1, tvg-id="eentertainment.fr" tvg-logo="http://safiafamily.com/uploads/family/france/e-entertainment.png" tvg-name="E! Entertainment HD"  group-title="FR| FRANCE",E! Entertainment HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70632
@@ -1467,7 +1509,7 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70764
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/france/Canal_Alpha_Ne-removebg-preview.png" tvg-name="Canal Alpha Ne"  group-title="FR| FRANCE",Canal Alpha Ne
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/922085
 
-#EXTINF:-1, tvg-id="CinePlusClub.fr" tvg-logo="Logo N/A" tvg-name="Ciné + ESTIVAL"  group-title="FR| FRANCE",Ciné + ESTIVAL
+#EXTINF:-1, tvg-id="CinePlusClub.fr" tvg-logo="Logo N/A" tvg-name="CinÃ© + ESTIVAL"  group-title="FR| FRANCE",CinÃ© + ESTIVAL
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/936136
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/france/Gong-Max-France-TV-Channel.png" tvg-name="Gong Max"  group-title="FR| FRANCE",Gong Max
@@ -1614,6 +1656,10 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70716
 #EXTINF:-1, tvg-id="teva.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Teva.png" tvg-name="Teva HD"  group-title="FR| FRANCE",Teva HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70567
 
+# ============================================
+# FRANCE - JEUNESSE - FR| JEUNESSE
+# ============================================
+
 #EXTINF:-1, tvg-id="nickelodeonteen.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Nickelodeon-Teen-4.png" tvg-name="Nickelodeon 4 Teen HD"  group-title="FR| JEUNESSE",Nickelodeon 4 Teen HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70661
 
@@ -1688,6 +1734,10 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654095
 
 #EXTINF:-1, tvg-id="disneyjunior.fr" tvg-logo="http://vod-logo.net/photos/6d81c4632427d382a8d565ff880b0702.png" tvg-name="Disney Junior HD"  group-title="FR| JEUNESSE",Disney Junior HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70656
+
+# ============================================
+# FRANCE - MUSIQUE - FR| MUSIQUE
+# ============================================
 
 #EXTINF:-1, tvg-id="rfmtv.fr" tvg-logo="http://safiafamily.com/uploads/family/france/RFM-TV.png" tvg-name="RFM TV HD"  group-title="FR| MUSIQUE",RFM TV HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70759
@@ -1781,6 +1831,10 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300656
 
 #EXTINF:-1, tvg-id="mcm.fr" tvg-logo="http://safiafamily.com/uploads/family/france/MCM.png" tvg-name="MCM TV HD"  group-title="FR| MUSIQUE",MCM TV HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654034
+
+# ============================================
+# FRANCE - SPORTS - FR| SPORTS
+# ============================================
 
 #EXTINF:-1, tvg-id="CanalPlusLive8.fr" tvg-logo="http://safiafamily.com/uploads/family/france/cana_live_8.png" tvg-name="Canal+ Live 8"  group-title="FR| SPORTS",Canal+ Live 8
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/922095
@@ -1890,7 +1944,7 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70711
 #EXTINF:-1, tvg-id="beinsportsmax7.fr" tvg-logo="http://safiafamily.com/uploads/family/france/BeIN-Max-7.png" tvg-name="BeIN Sports Max 7 HD"  group-title="FR| SPORTS",BeIN Sports Max 7 HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70679
 
-#EXTINF:-1, tvg-id="L'équipe21.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Auto-La-Chaine.png" tvg-name="LaChaine L Equipe HD"  group-title="FR| SPORTS",LaChaine L Equipe HD
+#EXTINF:-1, tvg-id="L'Ã©quipe21.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Auto-La-Chaine.png" tvg-name="LaChaine L Equipe HD"  group-title="FR| SPORTS",LaChaine L Equipe HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/293169
 
 #EXTINF:-1, tvg-id="beinsports1.fr" tvg-logo="http://safiafamily.com/uploads/family/Bein_sports/Bein_1.png" tvg-name="BeIN Sports 1 FHD"  group-title="FR| SPORTS",BeIN Sports 1 FHD
@@ -1913,9 +1967,6 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70712
 
 #EXTINF:-1, tvg-id="canalplusfoot.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Canal--Sport-Foot-TV-Channel-France.png" tvg-name="Canal+ Foot HD"  group-title="FR| SPORTS",Canal+ Foot HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654065
-
-#EXTINF:-1, tvg-id="beinsports3.fr" tvg-logo="http://safiafamily.com/uploads/family/Bein_sports/Bein_3.png" tvg-name="BeIN Sports 3 HD"  group-title="BOGOSS| COIFFEUR",BeIN Sports 3 HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70675
 
 #EXTINF:-1, tvg-id="CanalPlusLive1.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Canallive.png" tvg-name="Canal+ Live 1"  group-title="FR| SPORTS",Canal+ Live 1
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/922088
@@ -1986,1151 +2037,9 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70709
 #EXTINF:-1, tvg-id="equidia.fr" tvg-logo="http://safiafamily.com/uploads/family/france/Equidia-Live.png" tvg-name="Equidia Live FHD"  group-title="FR| SPORTS",Equidia Live FHD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/654072
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/2x2.png" tvg-name="2x2"  group-title="RU| RUSSIE",2x2
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20271
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/1HD.png" tvg-name="1HD"  group-title="RU| RUSSIE",1HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822603
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/365_dnei.png" tvg-name="365 dnei"  group-title="RU| RUSSIE",365 dnei
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20194
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/1HD.png" tvg-name="1 HD"  group-title="RU| RUSSIE",1 HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20323
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/360_HD.png" tvg-name="360 HD"  group-title="RU| RUSSIE",360 HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822604
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Bobior.png" tvg-name="Bobior"  group-title="RU| RUSSIE",Bobior
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822615
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Bilain_Info.png" tvg-name="Bilain Info"  group-title="RU| RUSSIE",Bilain Info
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822614
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Bober.png" tvg-name="Bober TV"  group-title="RU| RUSSIE",Bober TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20175
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/24_Techno.png" tvg-name="24 Techno"  group-title="RU| RUSSIE",24 Techno
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20228
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/AMEDIA_HIT_HD.png" tvg-name="AMEDIA HIT HD"  group-title="RU| RUSSIE",AMEDIA HIT HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20282
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/KtoKuda.png" tvg-name="#KtoKuda"  group-title="RU| RUSSIE",#KtoKuda
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822599
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/latin/AMC-Channel-Latin.png" tvg-name="AMC"  group-title="RU| RUSSIE",AMC
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20230
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/A2_russian.png" tvg-name="A2 TV"  group-title="RU| RUSSIE",A2 TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20173
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Amedia_2_HD.png" tvg-name="Amedia 2 HD"  group-title="RU| RUSSIE",Amedia 2 HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20209
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/A1_russia.png" tvg-name="A1 TV"  group-title="RU| RUSSIE",A1 TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20174
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Amedia_1_HD.png" tvg-name="Amedia 1 HD"  group-title="RU| RUSSIE",Amedia 1 HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20214
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/black.png" tvg-name=".black"  group-title="RU| RUSSIE",.black
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822600
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Perviy_kanal.png" tvg-name="Perviy kanal  HD"  group-title="RU| RUSSIE",Perviy kanal  HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20185
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/sci-fi.png" tvg-name=".sci-fi"  group-title="RU| RUSSIE",.sci-fi
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822602
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Auto_Plus.png" tvg-name="ABTO 24"  group-title="RU| RUSSIE",ABTO 24
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20180
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/red_HD.png" tvg-name=".red HD"  group-title="RU| RUSSIE",.red HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822601
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/BelRos.png" tvg-name="BelRos"  group-title="RU| RUSSIE",BelRos
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822612
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Belarus_24.png" tvg-name="Belarus’ 24"  group-title="RU| RUSSIE",Belarus’ 24
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822611
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Avto_Plius_HD.png" tvg-name="Auto Plus"  group-title="RU| RUSSIE",Auto Plus
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20179
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Avto_Plius_HD.png" tvg-name="Avto Plius HD"  group-title="RU| RUSSIE",Avto Plius HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822610
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Amedia_Premium.png" tvg-name="Amedia Premium HD"  group-title="RU| RUSSIE",Amedia Premium HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20189
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/sweden/Animal_Planet_HD.png" tvg-name="Animal Planet HD"  group-title="RU| RUSSIE",Animal Planet HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20306
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Mama.png" tvg-name="Mama"  group-title="RU| RUSSIE",Mama
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20211
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/M1_GLOBAL.png" tvg-name="M1 GLOBAL"  group-title="RU| RUSSIE",M1 GLOBAL
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179672
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Magnat.png" tvg-name="Magnat"  group-title="RU| RUSSIE",Magnat
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822656
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Arsenal_HD.png" tvg-name="Arsenal HD"  group-title="RU| RUSSIE",Arsenal HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822609
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Auto_24.png" tvg-name="Auto 24"  group-title="RU| RUSSIE",Auto 24
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20182
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Amedia_Home_Of_HBO_1_HD.png" tvg-name="Amedia Home Of HBO 1 HD"  group-title="RU| RUSSIE",Amedia Home Of HBO 1 HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20295
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Bridge_Classic.png" tvg-name="Bridge Classic"  group-title="RU| RUSSIE",Bridge Classic
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822617
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/africaDSTV/Boomerang-HD.png" tvg-name="Boomerang TV"  group-title="RU| RUSSIE",Boomerang TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20156
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/bulgaria/Box_tv.png" tvg-name="Box TV"  group-title="RU| RUSSIE",Box TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20148
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Big_Planet_HD.png" tvg-name="Big Planet HD"  group-title="RU| RUSSIE",Big Planet HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822613
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Boks_russia.png" tvg-name="Boks TV"  group-title="RU| RUSSIE",Boks TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20163
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Croatia/Animal_Planet_HD.png" tvg-name="Animal Family HD"  group-title="RU| RUSSIE",Animal Family HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20203
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Anekdot_TV.png" tvg-name="Anekdot TV"  group-title="RU| RUSSIE",Anekdot TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822608
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Ani.png" tvg-name="Ani"  group-title="RU| RUSSIE",Ani
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20152
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Bolshaia_Aziia_HD.png" tvg-name="Bol’shaia Aziia HD"  group-title="RU| RUSSIE",Bol’shaia Aziia HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822616
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Bollywood_russia.png" tvg-name="Bollywood HD"  group-title="RU| RUSSIE",Bollywood HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20178
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/5_Kanal_HD.png" tvg-name="5 Kanal HD"  group-title="RU| RUSSIE",5 Kanal HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20267
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/CINEMA.png" tvg-name="CINEMA"  group-title="RU| RUSSIE",CINEMA
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179689
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/finland/Disney_Channel.png" tvg-name="Disney Channel HD"  group-title="RU| RUSSIE",Disney Channel HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20138
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Che.png" tvg-name="Che"  group-title="RU| RUSSIE",Che
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20220
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Curiosity_Stream_HD.png" tvg-name="Curiosity Stream HD"  group-title="RU| RUSSIE",Curiosity Stream HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822622
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Classic_Music_HD.png" tvg-name="Classic Music HD"  group-title="RU| RUSSIE",Classic Music HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822621
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Eda_HD.png" tvg-name="Eda HD"  group-title="RU| RUSSIE",Eda HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300733
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Arabic_Sports/Euronews_2016_logo.svg.png" tvg-name="EuroNews HD"  group-title="RU| RUSSIE",EuroNews HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20280
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Europa_Plus_HD.png" tvg-name="Europa Plus HD"  group-title="RU| RUSSIE",Europa Plus HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20264
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/sweden/EuroSport_1_HD.png" tvg-name="EuroSport 1 HD"  group-title="RU| RUSSIE",EuroSport 1 HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/33459
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/sweden/EuroSport_2_HD.png" tvg-name="EuroSport 2 HD"  group-title="RU| RUSSIE",EuroSport 2 HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/33460
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/CTC_Love.png" tvg-name="CTC Love"  group-title="RU| RUSSIE",CTC Love
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20161
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Dikaya_Rybalka.png" tvg-name="Dikaya Rybalka"  group-title="RU| RUSSIE",Dikaya Rybalka
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20261
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/CCTV-4.png" tvg-name="CCTV-4"  group-title="RU| RUSSIE",CCTV-4
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822619
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Dikaya_Okhota.png" tvg-name="Dikaya Okhota"  group-title="RU| RUSSIE",Dikaya Okhota
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20248
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/latin/Discovery-Science-Channel-Latin.png" tvg-name="Discovery Science HD"  group-title="RU| RUSSIE",Discovery Science HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20311
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Mexico/DISCOVERY_CHANNEL.png" tvg-name="Discovery Channel HD"  group-title="RU| RUSSIE",Discovery Channel HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20312
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Bridge_TV_Russkiy_Hit.png" tvg-name="Bridge TV Russkiy Hit"  group-title="RU| RUSSIE",Bridge TV Russkiy Hit
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20150
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Channel_One_russia.png" tvg-name="Channel One"  group-title="RU| RUSSIE",Channel One
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20154
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Bridge_TV.png" tvg-name="Bridge TV"  group-title="RU| RUSSIE",Bridge TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20235
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/CGTN.png" tvg-name="CGTN"  group-title="RU| RUSSIE",CGTN
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822620
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/sweden/Cartoon_Network_HD.png" tvg-name="Cartoon Network HD"  group-title="RU| RUSSIE",Cartoon Network HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20285
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Evrokino.png" tvg-name="Evrokino"  group-title="RU| RUSSIE",Evrokino
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300737
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Domashniy.png" tvg-name="Domashniy"  group-title="RU| RUSSIE",Domashniy
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20202
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Dorama.png" tvg-name="Dorama"  group-title="RU| RUSSIE",Dorama
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822626
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Draiv.png" tvg-name="Draiv"  group-title="RU| RUSSIE",Draiv
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822627
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/ducktv_HD.png" tvg-name="ducktv HD"  group-title="RU| RUSSIE",ducktv HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822628
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/E_TV.png" tvg-name="E TV"  group-title="RU| RUSSIE",E TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300732
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/8_Kanal_HD.png" tvg-name="8 Kanal"  group-title="RU| RUSSIE",8 Kanal
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822607
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/365_Dnei_TV_HD.png" tvg-name="365 Dnei TV HD"  group-title="RU| RUSSIE",365 Dnei TV HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822605
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/A_HOME_OF_HBO_2_HD.png" tvg-name="A HOME OF HBO 2 HD"  group-title="RU| RUSSIE",A HOME OF HBO 2 HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20249
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Bridge_Hits.png" tvg-name="Bridge Hits"  group-title="RU| RUSSIE",Bridge Hits
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822618
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/8_Kanal.png" tvg-name="8 Kanal HD"  group-title="RU| RUSSIE",8 Kanal HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20252
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Domashnii_HD_OTT.png" tvg-name="Domashnii HD (OTT)"  group-title="RU| RUSSIE",Domashnii HD (OTT)
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822625
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Extreme_Sports_HD.png" tvg-name="Extreme Sports HD"  group-title="RU| RUSSIE",Extreme Sports HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/33456
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/FAN_HD.png" tvg-name="FAN HD"  group-title="RU| RUSSIE",FAN HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822629
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/FashionLifestyle_HD.png" tvg-name="Fashion TV"  group-title="RU| RUSSIE",Fashion TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20186
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/FashionLifestyle_HD.png" tvg-name="Fashion&Lifestyle HD"  group-title="RU| RUSSIE",Fashion&Lifestyle HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822630
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/FastFunBox_HD.png" tvg-name="Fast&FunBox HD"  group-title="RU| RUSSIE",Fast&FunBox HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822632
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Doctor_HD.png" tvg-name="Doctor HD"  group-title="RU| RUSSIE",Doctor HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179690
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/DOCUBOX_HD.png" tvg-name="DOCUBOX HD"  group-title="RU| RUSSIE",DOCUBOX HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179691
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/DOM_KINO.png" tvg-name="DOM KINO"  group-title="RU| RUSSIE",DOM KINO
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300729
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Dom_Kino_Premium_HD.png" tvg-name="Dom Kino Premium HD"  group-title="RU| RUSSIE",Dom Kino Premium HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20308
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Domashnie_Zhivotnye.png" tvg-name="Domashnie Zhivotnye"  group-title="RU| RUSSIE",Domashnie Zhivotnye
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822624
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Lubimoe_Kino.png" tvg-name="Lubimoe Kino"  group-title="RU| RUSSIE",Lubimoe Kino
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300764
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Fox_Life_HD.png" tvg-name="Fox Life HD"  group-title="RU| RUSSIE",Fox Life HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20318
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/GULLI.png" tvg-name="GULLI"  group-title="RU| RUSSIE",GULLI
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300742
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/FightBox_HD.png" tvg-name="FightBox"  group-title="RU| RUSSIE",FightBox
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822633
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/FightBox_HD.png" tvg-name="FightBox HD"  group-title="RU| RUSSIE",FightBox HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822634
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Feniks__Kino.png" tvg-name="Feniks + Kino"  group-title="RU| RUSSIE",Feniks + Kino
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300738
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Glazella"  group-title="RU| RUSSIE",Glazella
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300740
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Iuvelirochka"  group-title="RU| RUSSIE",Iuvelirochka
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822642
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Glazami_Turista_HD.png" tvg-name="Glazami Turista HD"  group-title="RU| RUSSIE",Glazami Turista HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822635
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/HDL.png" tvg-name="HDL"  group-title="RU| RUSSIE",HDL
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822636
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/GOSTIAH_U_SKAZKI.png" tvg-name="GOSTIAH U SKAZKI"  group-title="RU| RUSSIE",GOSTIAH U SKAZKI
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300741
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Fox_HD.png" tvg-name="Fox HD"  group-title="RU| RUSSIE",Fox HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20319
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/iConcerts.png" tvg-name="iConcerts"  group-title="RU| RUSSIE",iConcerts
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300745
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Istoriia.png" tvg-name="Istoriia"  group-title="RU| RUSSIE",Istoriia
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822640
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/HIT_HD.png" tvg-name="HIT HD"  group-title="RU| RUSSIE",HIT HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300744
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Hollywood_HD.png" tvg-name="Hollywood HD"  group-title="RU| RUSSIE",Hollywood HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822637
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/usa/History-Channel-TV.png" tvg-name="History HD"  group-title="RU| RUSSIE",History HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20305
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Indiia_TV.png" tvg-name="Indiia TV"  group-title="RU| RUSSIE",Indiia TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822639
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/italy/discovery-food-network.png" tvg-name="Food Network HD"  group-title="RU| RUSSIE",Food Network HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20268
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/illusion.png" tvg-name="illusion+"  group-title="RU| RUSSIE",illusion+
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300754
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Iu.png" tvg-name="Iu"  group-title="RU| RUSSIE",Iu
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822641
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Indijskoe_Kino.png" tvg-name="Indijskoe Kino"  group-title="RU| RUSSIE",Indijskoe Kino
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300748
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Kinopokaz_2_HD.png" tvg-name="Kinopokaz 2 HD"  group-title="RU| RUSSIE",Kinopokaz 2 HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20236
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/africaDSTV/JimJam.png" tvg-name="JimJam"  group-title="RU| RUSSIE",JimJam
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20213
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/KHL_Prime.png" tvg-name="KHL Prime"  group-title="RU| RUSSIE",KHL Prime
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822645
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Izvestiia_HD.png" tvg-name="Izvestiia HD"  group-title="RU| RUSSIE",Izvestiia HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822643
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/KHL_Prime.png" tvg-name="KHL HD"  group-title="RU| RUSSIE",KHL HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20278
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Kaleidoskop_TV.png" tvg-name="Kaleidoskop TV"  group-title="RU| RUSSIE",Kaleidoskop TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822644
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/KHL_Prime.png" tvg-name="KHL Prime HD"  group-title="RU| RUSSIE",KHL Prime HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822646
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/KINEKO_HD.png" tvg-name="KINEKO HD"  group-title="RU| RUSSIE",KINEKO HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822647
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Kino_Hit_HD.png" tvg-name="Kino Hit HD"  group-title="RU| RUSSIE",Kino Hit HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20253
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Kino_Komedija.png" tvg-name="Kino Komedija TV"  group-title="RU| RUSSIE",Kino Komedija TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20177
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/KINOSVIDANIE.png" tvg-name="Kino Svidanie HD"  group-title="RU| RUSSIE",Kino Svidanie HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20270
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Karusel.png" tvg-name="Karusel"  group-title="RU| RUSSIE",Karusel
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300752
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Kinomiks.png" tvg-name="Kinomiks"  group-title="RU| RUSSIE",Kinomiks
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20243
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Kinosem_ja.png" tvg-name="Kinosem ja"  group-title="RU| RUSSIE",Kinosem ja
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300747
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Kino_russia.png" tvg-name="Kino TV"  group-title="RU| RUSSIE",Kino TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20153
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Kinopremera_HD.png" tvg-name="Kinoprem’era HD"  group-title="RU| RUSSIE",Kinoprem’era HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822648
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Kinomix.png" tvg-name="Kinomix"  group-title="RU| RUSSIE",Kinomix
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179694
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Kinoserija.png" tvg-name="Kinoserija"  group-title="RU| RUSSIE",Kinoserija
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20131
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/KINOSVIDANIE.png" tvg-name="KINOSVIDANIE"  group-title="RU| RUSSIE",KINOSVIDANIE
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300758
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Kinouzhas_HD.png" tvg-name="Kinouzhas HD"  group-title="RU| RUSSIE",Kinouzhas HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822649
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Kitai TV HD"  group-title="RU| RUSSIE",Kitai TV HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822650
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Kliuch_HD.png" tvg-name="Kliuch HD"  group-title="RU| RUSSIE",Kliuch HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822651
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Htb.png" tvg-name="Htb HD"  group-title="RU| RUSSIE",Htb HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20200
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Liova HD"  group-title="RU| RUSSIE",Liova HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822655
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Leomax24.png" tvg-name="Leomax24"  group-title="RU| RUSSIE",Leomax24
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822654
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Life_HD.png" tvg-name="Life HD"  group-title="RU| RUSSIE",Life HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20288
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Konniy_Mir.png" tvg-name="Konniy Mir HD"  group-title="RU| RUSSIE",Konniy Mir HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20151
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Kuhnya_TV.png" tvg-name="Kuhnya TV"  group-title="RU| RUSSIE",Kuhnya TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300761
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Mezzo.png" tvg-name="Mezzo live HD"  group-title="RU| RUSSIE",Mezzo live HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20293
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Mir_HD.png" tvg-name="MIR"  group-title="RU| RUSSIE",MIR
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300771
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/MATCh_Premer_HD.png" tvg-name="Match Premiere HD"  group-title="RU| RUSSIE",Match Premiere HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20250
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/KVN_TV.png" tvg-name="KVN TV"  group-title="RU| RUSSIE",KVN TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300762
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La minor"  group-title="RU| RUSSIE",La minor
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300763
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/KOMEDIJA_TV.png" tvg-name="KOMEDIJA TV"  group-title="RU| RUSSIE",KOMEDIJA TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179695
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/MATCh_Arena_HD.png" tvg-name="Match Nash Sport"  group-title="RU| RUSSIE",Match Nash Sport
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20298
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Match_Futbol_2_HD.png" tvg-name="Match Football 2 HD"  group-title="RU| RUSSIE",Match Football 2 HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20145
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Match_Futbol_3_HD.png" tvg-name="Match Football 3 HD"  group-title="RU| RUSSIE",Match Football 3 HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20144
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Luxuri_World.png" tvg-name="Luxuri World"  group-title="RU| RUSSIE",Luxuri World
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300765
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Match_Arena.png" tvg-name="Match Arena HD"  group-title="RU| RUSSIE",Match Arena HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20143
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Kuchnia_TV.png" tvg-name="Kuchnia TV"  group-title="RU| RUSSIE",Kuchnia TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300760
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Krasnaia_Liniia.png" tvg-name="Krasnaia Liniia"  group-title="RU| RUSSIE",Krasnaia Liniia
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822653
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/KTO_EST_KTO.png" tvg-name="KTO EST KTO"  group-title="RU| RUSSIE",KTO EST KTO
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20193
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Match_Boyets.png" tvg-name="MATCH BOEC"  group-title="RU| RUSSIE",MATCH BOEC
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300769
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Match_Football_1.png" tvg-name="Match Football 1"  group-title="RU| RUSSIE",Match Football 1
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20146
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Mezzo.png" tvg-name="Mezzo"  group-title="RU| RUSSIE",Mezzo
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822662
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Match_Planeta.png" tvg-name="MATCh! Prem’er HD"  group-title="RU| RUSSIE",MATCh! Prem’er HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822660
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/MATCH_HD.png" tvg-name="MATCH_HD"  group-title="RU| RUSSIE",MATCH_HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300770
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Match_Futbol_1_HD.png" tvg-name="Match! Futbol 1 HD"  group-title="RU| RUSSIE",Match! Futbol 1 HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20263
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Match_Strana.png" tvg-name="Match Strana"  group-title="RU| RUSSIE",Match Strana
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300768
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Match_Arena.png" tvg-name="MATCh! Arena HD"  group-title="RU| RUSSIE",MATCh! Arena HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822657
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Komediia.png" tvg-name="Komediia"  group-title="RU| RUSSIE",Komediia
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822652
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/HSR_24.png" tvg-name="HSR 24"  group-title="RU| RUSSIE",HSR 24
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822638
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/MATCh_Arena_HD.png" tvg-name="Match! Igra HD"  group-title="RU| RUSSIE",Match! Igra HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/33458
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Match_Planeta.png" tvg-name="Match! Planeta"  group-title="RU| RUSSIE",Match! Planeta
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300808
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Match_Futbol_3_HD.png" tvg-name="Match! Futbol 3 HD"  group-title="RU| RUSSIE",Match! Futbol 3 HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20299
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Match_Boyets.png" tvg-name="MATCh! Boets"  group-title="RU| RUSSIE",MATCh! Boets
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822658
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MMA-TV.COM"  group-title="RU| RUSSIE",MMA-TV.COM
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822666
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Moia_Planeta.png" tvg-name="Moia Planeta"  group-title="RU| RUSSIE",Moia Planeta
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822667
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Mir_24.png" tvg-name="Mir 24"  group-title="RU| RUSSIE",Mir 24
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/390166
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/MCM_Top.png" tvg-name="MCM Top"  group-title="RU| RUSSIE",MCM Top
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822661
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/viju_Megahit_HD.png" tvg-name="MEGAHIT HD"  group-title="RU| RUSSIE",MEGAHIT HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20227
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Match_Boyets.png" tvg-name="Match! Boyets"  group-title="RU| RUSSIE",Match! Boyets
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822659
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Match_Football_2.png" tvg-name="Match! Futbol  2 HD"  group-title="RU| RUSSIE",Match! Futbol  2 HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20251
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Mir_HD.png" tvg-name="Mir HD"  group-title="RU| RUSSIE",Mir HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822665
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/MIR_SERIALA.png" tvg-name="MIR SERIALA"  group-title="RU| RUSSIE",MIR SERIALA
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300774
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Mir_Basketbola_HD.png" tvg-name="Mir Basketbola HD"  group-title="RU| RUSSIE",Mir Basketbola HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822664
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Romania/DTX.png" tvg-name="Discovery DTX HD"  group-title="RU| RUSSIE",Discovery DTX HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20137
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/MusicBox_Gold.png" tvg-name="MusicBox Gold"  group-title="RU| RUSSIE",MusicBox Gold
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822671
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/MUZ.png" tvg-name="MUZ"  group-title="RU| RUSSIE",MUZ
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300781
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/MOSKVA_24.png" tvg-name="MOSKVA 24"  group-title="RU| RUSSIE",MOSKVA 24
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179687
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Movie_Premieres.png" tvg-name="Movie Premieres"  group-title="RU| RUSSIE",Movie Premieres
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20158
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mosfil’m HD"  group-title="RU| RUSSIE",Mosfil’m HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822669
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Ohota_i_Rybalka.png" tvg-name="Ohota i Rybalka"  group-title="RU| RUSSIE",Ohota i Rybalka
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300791
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Ohotnik_i_Rybolov_HD.png" tvg-name="Ohotnik i Rybolov HD"  group-title="RU| RUSSIE",Ohotnik i Rybolov HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300792
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/MULT_I_MUZIKA.png" tvg-name="MULT I MUZIKA"  group-title="RU| RUSSIE",MULT I MUZIKA
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300780
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Mulytimaniya.png" tvg-name="Mulytimaniya"  group-title="RU| RUSSIE",Mulytimaniya
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179679
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Mult_HD.png" tvg-name="Mul’t HD"  group-title="RU| RUSSIE",Mul’t HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822670
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/MTV_.png" tvg-name="MTV РОССИЯ"  group-title="RU| RUSSIE",MTV РОССИЯ
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300731
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Mexico/Nat_Geo_Wild_HD.png" tvg-name="Nat Geo Wild HD"  group-title="RU| RUSSIE",Nat Geo Wild HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20273
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Nauka_2_0.png" tvg-name="Nauka 2 0"  group-title="RU| RUSSIE",Nauka 2 0
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300786
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/MUZIKA_PERVOGO.png" tvg-name="MUZIKA PERVOGO"  group-title="RU| RUSSIE",MUZIKA PERVOGO
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300782
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/MyZen_TV_HD.png" tvg-name="MyZen TV HD"  group-title="RU| RUSSIE",MyZen TV HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300783
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Muzhskoi.png" tvg-name="Muzhskoi"  group-title="RU| RUSSIE",Muzhskoi
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822672
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Muzhskoe_Kino_HD.png" tvg-name="Muzhskoe Kino HD"  group-title="RU| RUSSIE",Muzhskoe Kino HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20246
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Netherland/MTV_LIVE_4K.png" tvg-name="MTV Live HD"  group-title="RU| RUSSIE",MTV Live HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20226
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Nashe_Novoe_Kino.png" tvg-name="Nashe Novoe Kino HD"  group-title="RU| RUSSIE",Nashe Novoe Kino HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20208
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/TURKEY/Nat_Geo_HD.png" tvg-name="Nat Geo HD"  group-title="RU| RUSSIE",Nat Geo HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20201
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Nashe_Liubimoje_Kino.png" tvg-name="Nashe Liubimoje Kino"  group-title="RU| RUSSIE",Nashe Liubimoje Kino
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300785
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/OCEAN.png" tvg-name="OCEAN"  group-title="RU| RUSSIE",OCEAN
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300730
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/NTV_Khit.png" tvg-name="NTV Khit"  group-title="RU| RUSSIE",NTV Khit
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822675
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/NTV_HD_OTT.png" tvg-name="NTV HD"  group-title="RU| RUSSIE",NTV HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20260
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/NTV_HD_OTT.png" tvg-name="NTV HD (OTT)"  group-title="RU| RUSSIE",NTV HD (OTT)
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822674
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/TURKEY/Nick_Jr_HD.png" tvg-name="Nick Jr. HD"  group-title="RU| RUSSIE",Nick Jr. HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20217
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/TURKEY/Nickelodeon_HD.png" tvg-name="Nickelodeon HD"  group-title="RU| RUSSIE",Nickelodeon HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20218
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/viju_Explore_HD.png" tvg-name="viju Explore HD"  group-title="RU| RUSSIE",viju Explore HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822720
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Viasat_sport.png" tvg-name="Viasat Sport"  group-title="RU| RUSSIE",Viasat Sport
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20149
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/VIASAT_TV1000_RUSSKOE_KINO.png" tvg-name="VIASAT TV1000 RUSSKOE KINO"  group-title="RU| RUSSIE",VIASAT TV1000 RUSSKOE KINO
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179673
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/NTV_Football_2.png" tvg-name="NTV Football 2"  group-title="RU| RUSSIE",NTV Football 2
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300757
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/NTV_Football_3.png" tvg-name="NTV Football 3"  group-title="RU| RUSSIE",NTV Football 3
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300749
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/NOSTALGIJA.png" tvg-name="NOSTALGIJA"  group-title="RU| RUSSIE",NOSTALGIJA
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300787
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/latin/Paramount-Channel-Latin.png" tvg-name="Paramount Comedy HD"  group-title="RU| RUSSIE",Paramount Comedy HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20296
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/OTR.png" tvg-name="OTR"  group-title="RU| RUSSIE",OTR
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822680
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/usa/Outdoor-TV-Channel.png" tvg-name="OutDoor Channel HD"  group-title="RU| RUSSIE",OutDoor Channel HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20232
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/NTV_HD_OTT.png" tvg-name="NTV Stil’"  group-title="RU| RUSSIE",NTV Stil’
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822677
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/O.png" tvg-name="O!"  group-title="RU| RUSSIE",O!
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822678
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/NST.png" tvg-name="NST"  group-title="RU| RUSSIE",NST
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822673
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/NST_TV.png" tvg-name="NST TV"  group-title="RU| RUSSIE",NST TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300788
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/NTV_Serial.png" tvg-name="NTV Serial"  group-title="RU| RUSSIE",NTV Serial
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822676
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/ORUZHIE.png" tvg-name="ORUZHIE"  group-title="RU| RUSSIE",ORUZHIE
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300793
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Ostrosyuzhetnoye_Kino_HD.png" tvg-name="Ostrosyuzhetnoye Kino HD"  group-title="RU| RUSSIE",Ostrosyuzhetnoye Kino HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300794
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Nashe_Krutoe.png" tvg-name="Nashe Krutoe"  group-title="RU| RUSSIE",Nashe Krutoe
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300784
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/PEH_TB.png" tvg-name="PEH TB"  group-title="RU| RUSSIE",PEH TB
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300796
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Perviy_Kanal_Europe.png" tvg-name="Perviy Kanal Europe"  group-title="RU| RUSSIE",Perviy Kanal Europe
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300799
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Pervyi_Kosmicheskii_HD.png" tvg-name="Pervyi Kosmicheskii HD"  group-title="RU| RUSSIE",Pervyi Kosmicheskii HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822681
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Planeta_RTR_HD.png" tvg-name="Planeta RTR HD"  group-title="RU| RUSSIE",Planeta RTR HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20322
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Priklyucheniya_HD.png" tvg-name="Priklyucheniya HD"  group-title="RU| RUSSIE",Priklyucheniya HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300803
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Psikhologiya_21.png" tvg-name="Psikhologiya 21"  group-title="RU| RUSSIE",Psikhologiya 21
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300805
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Pyatnitsa!!"  group-title="RU| RUSSIE",Pyatnitsa!!
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20224
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/RBK.png" tvg-name="RBK HD"  group-title="RU| RUSSIE",RBK HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20207
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Ren_TV.png" tvg-name="Ren TV"  group-title="RU| RUSSIE",Ren TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300813
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/REN.png" tvg-name="REN TV"  group-title="RU| RUSSIE",REN TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20204
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Rodnoe_Kino_HD.png" tvg-name="Rodnoe Kino HD"  group-title="RU| RUSSIE",Rodnoe Kino HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20247
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Rossiya_1_HD.png" tvg-name="Rossiya 1 HD"  group-title="RU| RUSSIE",Rossiya 1 HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20325
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Rossiya_24.png" tvg-name="Rossiya 24"  group-title="RU| RUSSIE",Rossiya 24
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179681
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/RT_Doc.png" tvg-name="RT Doc"  group-title="RU| RUSSIE",RT Doc
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179682
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/RT_HD.png" tvg-name="RT HD"  group-title="RU| RUSSIE",RT HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179683
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/RTG_HD.png" tvg-name="RTG HD"  group-title="RU| RUSSIE",RTG HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179684
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/RTVi.png" tvg-name="RTVi"  group-title="RU| RUSSIE",RTVi
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20276
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/RU_TV.png" tvg-name="RU TV"  group-title="RU| RUSSIE",RU TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300806
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Russia_K.png" tvg-name="Russia K"  group-title="RU| RUSSIE",Russia K
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179685
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Russian_MusicBox.png" tvg-name="Russian MusicBox"  group-title="RU| RUSSIE",Russian MusicBox
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300810
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Russkij_Illuzion_HD.png" tvg-name="Russkij Illuzion HD"  group-title="RU| RUSSIE",Russkij Illuzion HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20300
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Solntse.png" tvg-name="Solntse"  group-title="RU| RUSSIE",Solntse
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822689
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Russkiy_Bestseller.png" tvg-name="Russkiy Bestseller"  group-title="RU| RUSSIE",Russkiy Bestseller
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300811
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/SHANT_Music_HD.png" tvg-name="SHANT Music HD"  group-title="RU| RUSSIE",SHANT Music HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822684
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Russkij_Roman.png" tvg-name="Russkij Roman"  group-title="RU| RUSSIE",Russkij Roman
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179677
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/red_HD.png" tvg-name="SET HD"  group-title="RU| RUSSIE",SET HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300816
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Russkiy_Extrim_HD.png" tvg-name="Russkiy Extrim HD"  group-title="RU| RUSSIE",Russkiy Extrim HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20317
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Shanson.png" tvg-name="Shanson TV"  group-title="RU| RUSSIE",Shanson TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20165
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Nash_Kinoroman.png" tvg-name="Nash Kinoroman"  group-title="RU| RUSSIE",Nash Kinoroman
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179678
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Setanta_Sport.png" tvg-name="Setanta Sport HD"  group-title="RU| RUSSIE",Setanta Sport HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20198
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/SHANT_Premium_HD.png" tvg-name="SHANT Premium HD"  group-title="RU| RUSSIE",SHANT Premium HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822685
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/SHANT_Kids_HD.png" tvg-name="SHANT Kids HD"  group-title="RU| RUSSIE",SHANT Kids HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822683
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/SARAFAN.png" tvg-name="SARAFAN"  group-title="RU| RUSSIE",SARAFAN
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300814
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Shopping_Live.png" tvg-name="Shopping Live"  group-title="RU| RUSSIE",Shopping Live
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822687
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Spas.png" tvg-name="Spas"  group-title="RU| RUSSIE",Spas
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822690
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Shokiruyuschee"  group-title="RU| RUSSIE",Shokiruyuschee
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300818
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/SONY_CHANNEL.png" tvg-name="SONY CHANNEL"  group-title="RU| RUSSIE",SONY CHANNEL
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300821
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Sochi_Live_HD.png" tvg-name="Sochi Live HD"  group-title="RU| RUSSIE",Sochi Live HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822688
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Sony_Turbo.png" tvg-name="Sony Turbo"  group-title="RU| RUSSIE",Sony Turbo
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20272
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/SHANT_Serial_HD.png" tvg-name="SHANT Serial HD"  group-title="RU| RUSSIE",SHANT Serial HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822686
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Sony_Sci_Fi.png" tvg-name="Sony Sci Fi"  group-title="RU| RUSSIE",Sony Sci Fi
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20274
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/START_Air_HD.png" tvg-name="START Air HD"  group-title="RU| RUSSIE",START Air HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822691
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/SOVERSHENNO_SEKRETNO.png" tvg-name="SOVERSHENNO SEKRETNO"  group-title="RU| RUSSIE",SOVERSHENNO SEKRETNO
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300823
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Croatia/Viasat_History_HD.png" tvg-name="Viasat History HD"  group-title="RU| RUSSIE",Viasat History HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20315
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/STS_HD_OTT.png" tvg-name="STS HD (OTT)"  group-title="RU| RUSSIE",STS HD (OTT)
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822693
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TV_3.png" tvg-name="TV 3"  group-title="RU| RUSSIE",TV 3
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20234
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/STS_BALTIC.png" tvg-name="STS BALTIC"  group-title="RU| RUSSIE",STS BALTIC
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300826
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="STYLE"  group-title="RU| RUSSIE",STYLE
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300828
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/STS_Kids_HD.png" tvg-name="STS Kids HD"  group-title="RU| RUSSIE",STS Kids HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822694
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TravelAdventure_HD.png" tvg-name="Travel+Adventure HD"  group-title="RU| RUSSIE",Travel+Adventure HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300836
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TV1000_Ruskoe_Kino.png" tvg-name="TV1000 Ruskoe Kino"  group-title="RU| RUSSIE",TV1000 Ruskoe Kino
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20237
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Travel_Channel_HD.png" tvg-name="Travel Channel HD"  group-title="RU| RUSSIE",Travel Channel HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20302
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TV_Start_Russia.png" tvg-name="TV Start Russia"  group-title="RU| RUSSIE",TV Start Russia
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822713
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/VIASAT_TV1000_RUSSKOE_KINO.png" tvg-name="TV 1000 HD"  group-title="RU| RUSSIE",TV 1000 HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20242
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/STS_Love.png" tvg-name="STS Love"  group-title="RU| RUSSIE",STS Love
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822695
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Telekafe.png" tvg-name="Telekafe"  group-title="RU| RUSSIE",Telekafe
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300829
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Subbota_HD.png" tvg-name="Subbota! HD"  group-title="RU| RUSSIE",Subbota! HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822696
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Teatr_HD.png" tvg-name="Teatr HD"  group-title="RU| RUSSIE",Teatr HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822702
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/THT_HD.png" tvg-name="THT HD"  group-title="RU| RUSSIE",THT HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20244
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TELEKANAL_FUTBOL.png" tvg-name="TELEKANAL FUTBOL"  group-title="RU| RUSSIE",TELEKANAL FUTBOL
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300830
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TV_Start_Russia.png" tvg-name="Start TV"  group-title="RU| RUSSIE",Start TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20168
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/START_World_HD.png" tvg-name="START World HD"  group-title="RU| RUSSIE",START World HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822692
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/STB.png" tvg-name="STB"  group-title="RU| RUSSIE",STB
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20183
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Strashnoe.png" tvg-name="Strashnoe"  group-title="RU| RUSSIE",Strashnoe
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300825
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/STS.png" tvg-name="STS"  group-title="RU| RUSSIE",STS
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20184
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TV1000_Russkoje_Kino.png" tvg-name="TV1000 Russkoje Kino"  group-title="RU| RUSSIE",TV1000 Russkoje Kino
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300837
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Moia Stikhiia"  group-title="RU| RUSSIE",Moia Stikhiia
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822668
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/DETSKIY_MIR.png" tvg-name="Detskiy HD"  group-title="RU| RUSSIE",Detskiy HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20281
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TNT_Music.png" tvg-name="TNT Music"  group-title="RU| RUSSIE",TNT Music
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822707
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TNV_Tatarstan.png" tvg-name="TNV Tatarstan"  group-title="RU| RUSSIE",TNV Tatarstan
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822708
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TNT_7.png" tvg-name="TNT +7"  group-title="RU| RUSSIE",TNT +7
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300834
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/DANGE.png" tvg-name="DANGE"  group-title="RU| RUSSIE",DANGE
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20245
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Dialogi_o_Rybalke_HD.png" tvg-name="Dialogi o Rybalke HD"  group-title="RU| RUSSIE",Dialogi o Rybalke HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822623
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Da_Vinci_Learning.png" tvg-name="Da Vinci Learning"  group-title="RU| RUSSIE",Da Vinci Learning
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20221
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/DETSKIY_MIR.png" tvg-name="DETSKIY MIR"  group-title="RU| RUSSIE",DETSKIY MIR
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20258
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DETSKIJ"  group-title="RU| RUSSIE",DETSKIJ
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20225
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Trace_Sport_Stars_HD.png" tvg-name="Trace Sport Stars HD"  group-title="RU| RUSSIE",Trace Sport Stars HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822711
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Trash_HD.png" tvg-name="Trash HD"  group-title="RU| RUSSIE",Trash HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822712
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/TURKEY/TLC_HD.png" tvg-name="TLC"  group-title="RU| RUSSIE",TLC
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20166
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TV1000_Comedy_HD.png" tvg-name="TV1000 Comedy HD"  group-title="RU| RUSSIE",TV1000 Comedy HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20238
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TV1000_Premium_HD.png" tvg-name="TV1000 Premium HD"  group-title="RU| RUSSIE",TV1000 Premium HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20240
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TV1000_Action_HD.png" tvg-name="TV1000 Action HD"  group-title="RU| RUSSIE",TV1000 Action HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20241
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Timeless_Dizi_Channel_HD.png" tvg-name="Timeless Dizi Channel HD"  group-title="RU| RUSSIE",Timeless Dizi Channel HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822705
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Tochka_Otryva.png" tvg-name="Tochka Otryva"  group-title="RU| RUSSIE",Tochka Otryva
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822709
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TiJi.png" tvg-name="TiJi"  group-title="RU| RUSSIE",TiJi
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822704
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TNT.png" tvg-name="TNT"  group-title="RU| RUSSIE",TNT
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300833
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Tip-Top_HD.png" tvg-name="Tip-Top HD"  group-title="RU| RUSSIE",Tip-Top HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822706
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TERRA_HD.png" tvg-name="TERRA HD"  group-title="RU| RUSSIE",TERRA HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822703
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/V_Gostiakh_u_Skazki.png" tvg-name="V Gostiakh u Skazki"  group-title="RU| RUSSIE",V Gostiakh u Skazki
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822717
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/USADBA_TV.png" tvg-name="USADBA TV"  group-title="RU| RUSSIE",USADBA TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300839
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/VHS-KA_HD.png" tvg-name="VHS-KA HD"  group-title="RU| RUSSIE",VHS-KA HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822719
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TVTs_HD.png" tvg-name="TVTs HD"  group-title="RU| RUSSIE",TVTs HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822714
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Vesti_FM.png" tvg-name="Vesti FM"  group-title="RU| RUSSIE",Vesti FM
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822718
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/World_Fashion_HD.png" tvg-name="World Fashion"  group-title="RU| RUSSIE",World Fashion
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20210
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Vremya.png" tvg-name="Vremya"  group-title="RU| RUSSIE",Vremya
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300841
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Zagorodnaya_Zhizn.png" tvg-name="Zagorodnaya Zhizn"  group-title="RU| RUSSIE",Zagorodnaya Zhizn
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300843
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/UK/UTV.png" tvg-name="UTV"  group-title="RU| RUSSIE",UTV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20162
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/World_Fashion_HD.png" tvg-name="World Fashion HD"  group-title="RU| RUSSIE",World Fashion HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822735
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TVCI.png" tvg-name="TVCI"  group-title="RU| RUSSIE",TVCI
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20277
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/viju_TV1000_HD.png" tvg-name="viju TV1000 HD"  group-title="RU| RUSSIE",viju TV1000 HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822723
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/viju_History_HD.png" tvg-name="viju History HD"  group-title="RU| RUSSIE",viju History HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822721
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/viju_Comedy_HD.png" tvg-name="viju+ Comedy HD"  group-title="RU| RUSSIE",viju+ Comedy HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822725
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Croatia/Viasat_Nature_HD.png" tvg-name="Viasat Nature HD"  group-title="RU| RUSSIE",Viasat Nature HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20313
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/viju_TV1000_Russkoe_HD.png" tvg-name="viju TV1000 Russkoe HD"  group-title="RU| RUSSIE",viju TV1000 Russkoe HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822724
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Unikum.png" tvg-name="Unikum"  group-title="RU| RUSSIE",Unikum
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822716
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/TV-XXI.png" tvg-name="TV-XXI"  group-title="RU| RUSSIE",TV-XXI
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20256
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Udar_HD.png" tvg-name="Udar HD"  group-title="RU| RUSSIE",Udar HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822715
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/viju_Nature_HD.png" tvg-name="viju Nature HD"  group-title="RU| RUSSIE",viju Nature HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822722
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Croatia/Viasat_Explorer_HD.png" tvg-name="Viasat Explorer HD"  group-title="RU| RUSSIE",Viasat Explorer HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20314
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Womens_Magazine_HD.png" tvg-name="Women’s Magazine HD"  group-title="RU| RUSSIE",Women’s Magazine HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822734
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/viju_Sport.png" tvg-name="viju+ Sport HD"  group-title="RU| RUSSIE",viju+ Sport HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822731
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/VIP_COMEDY_HD.png" tvg-name="VIP COMEDY HD"  group-title="RU| RUSSIE",VIP COMEDY HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179674
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/VIP_Premiere.png" tvg-name="VIP Premiere"  group-title="RU| RUSSIE",VIP Premiere
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179675
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/VIP_Serial.png" tvg-name="VIP Serial"  group-title="RU| RUSSIE",VIP Serial
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/179676
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Voprosy_i_Otvety.png" tvg-name="Voprosy i Otvety"  group-title="RU| RUSSIE",Voprosy i Otvety
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822732
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/SuperGeroi.png" tvg-name="SuperGeroi"  group-title="RU| RUSSIE",SuperGeroi
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822697
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/T24.png" tvg-name="T24"  group-title="RU| RUSSIE",T24
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822698
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Tainy_Galaktiki.png" tvg-name="Tainy Galaktiki"  group-title="RU| RUSSIE",Tainy Galaktiki
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822699
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tantsui! HD"  group-title="RU| RUSSIE",Tantsui! HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822700
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tantsuy!"  group-title="RU| RUSSIE",Tantsuy!
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822701
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/viju_Planet_HD.png" tvg-name="viju+ Planet HD"  group-title="RU| RUSSIE",viju+ Planet HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822727
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/ZAGORODNOJA_JIZN.png" tvg-name="ZAGORODNOJA JIZN"  group-title="RU| RUSSIE",ZAGORODNOJA JIZN
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300755
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Zee_russia.png" tvg-name="Zee TV"  group-title="RU| RUSSIE",Zee TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20172
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Zhivaya_Planeta.png" tvg-name="Zhivaya Planeta"  group-title="RU| RUSSIE",Zhivaya Planeta
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20192
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Zvezda.png" tvg-name="Zvezda"  group-title="RU| RUSSIE",Zvezda
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/20197
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Pravo.png" tvg-name="Право Pravo"  group-title="RU| RUSSIE",Право Pravo
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/300802
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/viju_Premiere_HD.png" tvg-name="viju+ Premiere HD"  group-title="RU| RUSSIE",viju+ Premiere HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822728
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/viju_Megahit_HD.png" tvg-name="viju+ Megahit HD"  group-title="RU| RUSSIE",viju+ Megahit HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822726
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/viju_Sport.png" tvg-name="viju+ Sport"  group-title="RU| RUSSIE",viju+ Sport
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822730
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/Vostok_TV.png" tvg-name="Vostok TV"  group-title="RU| RUSSIE",Vostok TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822733
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Russia/viju_Serial_HD.png" tvg-name="viju+ Serial HD"  group-title="RU| RUSSIE",viju+ Serial HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/822729
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/11.png" tvg-name="1PLUS 1"  group-title="UKR| UKRAINE",1PLUS 1
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178493
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="22"  group-title="UKR| UKRAINE",22
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178495
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-24-kanal-tv.png" tvg-name="24 Kanal HD"  group-title="UKR| UKRAINE",24 Kanal HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178496
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/22.png" tvg-name="2PLUS 2"  group-title="UKR| UKRAINE",2PLUS 2
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178497
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/5-Channel.png" tvg-name="5 chanel"  group-title="UKR| UKRAINE",5 chanel
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178500
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="5KANAL UKRAINA"  group-title="UKR| UKRAINE",5KANAL UKRAINA
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178501
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-ATR.png" tvg-name="ATR HD"  group-title="UKR| UKRAINE",ATR HD
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178503
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-EnterfilmTV.png" tvg-name="ENTERFILM"  group-title="UKR| UKRAINE",ENTERFILM
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178508
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Espreso-TV.png" tvg-name="ESPRESOTV"  group-title="UKR| UKRAINE",ESPRESOTV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178509
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/ICTv.png" tvg-name="ICTV"  group-title="UKR| UKRAINE",ICTV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178518
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-K1-TV.png" tvg-name="K1"  group-title="UKR| UKRAINE",K1
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178522
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-K2-TV.png" tvg-name="K2"  group-title="UKR| UKRAINE",K2
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178523
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-Kvartal--TV.png" tvg-name="Kvartal TV"  group-title="UKR| UKRAINE",Kvartal TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178526
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/M1-TV.png" tvg-name="M1"  group-title="UKR| UKRAINE",M1
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178528
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-M2-TV.png" tvg-name="M2"  group-title="UKR| UKRAINE",M2
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178529
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-M2-Estrada-TV.png" tvg-name="M2 Estrada"  group-title="UKR| UKRAINE",M2 Estrada
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178530
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-Maxxi-TV.png" tvg-name="MAXXI TV"  group-title="UKR| UKRAINE",MAXXI TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178531
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-MEGA-TV.png" tvg-name="MEGA"  group-title="UKR| UKRAINE",MEGA
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178532
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-Milady-Television-TV.png" tvg-name="MILADY TELEVISION"  group-title="UKR| UKRAINE",MILADY TELEVISION
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178533
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="News Network"  group-title="UKR| UKRAINE",News Network
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/937232
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-Novy-Kanala.png" tvg-name="NOVY KANAL"  group-title="UKR| UKRAINE",NOVY KANAL
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178539
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Plus Plus"  group-title="UKR| UKRAINE",Plus Plus
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/937231
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-Sonce-tv.png" tvg-name="SONCE TV"  group-title="UKR| UKRAINE",SONCE TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178548
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-Sport-1-tv.png" tvg-name="Sport 1"  group-title="UKR| UKRAINE",Sport 1
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178550
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-Sport-2-tv.png" tvg-name="Sport 2"  group-title="UKR| UKRAINE",Sport 2
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178551
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-STB.png" tvg-name="STB"  group-title="UKR| UKRAINE",STB
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178549
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-TET.png" tvg-name="TET"  group-title="UKR| UKRAINE",TET
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178553
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-UA.png" tvg-name="UA TV"  group-title="UKR| UKRAINE",UA TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178558
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="UKRAINA"  group-title="UKR| UKRAINE",UKRAINA
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178559
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-Ventge-TV.png" tvg-name="VINTAGE TV"  group-title="UKR| UKRAINE",VINTAGE TV
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178562
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/Ukraine/Ukraine-X-Sport-TV.png" tvg-name="X SPORT"  group-title="UKR| UKRAINE",X SPORT
-http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/178563
+# ============================================
+# USA - SPORTS - US| SPORTS
+# ============================================
 
 #EXTINF:-1, tvg-id="madisonsquaregarden2.us" tvg-logo="http://safiafamily.com/uploads/family/usa/MSG-2--Channel-logo.png" tvg-name="MSG 2 HD"  group-title="US| SPORTS",MSG 2 HD
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70436
@@ -3338,6 +2247,10 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/90135
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/usa/ESPN-2.png" tvg-name="ESPN 2"  group-title="US| SPORTS",ESPN 2
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/70395
+
+# ============================================
+# USA - US| USA
+# ============================================
 
 #EXTINF:-1, tvg-id="abcwjla.us" tvg-logo="http://safiafamily.com/uploads/family/usa/ABC-7-TV-Chicago.png" tvg-name="ABC 7 (WJLA) Washington"  group-title="US| USA",ABC 7 (WJLA) Washington
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/393235
@@ -3893,6 +2806,10 @@ http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/219825
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/usa/NHK-World-Live.png" tvg-name="NHK World Live"  group-title="US| USA",NHK World Live
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/87450
+
+# ============================================
+# USA - NBA NFL NHL MLB - USA| NBA NFL NHL MLB
+# ============================================
 
 #EXTINF:-1, tvg-id="mlbnetwork.us" tvg-logo="http://safiafamily.com/uploads/family/usa/MLB-Network-Channel-logo.png" tvg-name="MLB Network"  group-title="USA| NBA NFL NHL MLB",MLB Network
 http://familyrestream.com:2095/Majid2022/WhatsApp2962myrestream/216119
