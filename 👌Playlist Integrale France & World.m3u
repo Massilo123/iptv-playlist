@@ -7,25 +7,25 @@
 #EXTINF:-1, tvg-id="IciRDI.ca" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" group-title="CA| CANADA",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/default.png" tvg-name="ICI Tele Quebec HD "  group-title="CA| CANADA",ICI Tele Quebec HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.seeklogo.com/logo-png/32/1/ici-radio-canada-tele-2016-logo-png_seeklogo-326657.png" tvg-name="ICI Tele Quebec HD "  group-title="CA| CANADA",ICI Tele Quebec HD
 http://tv14s.xyz:8080/A1Jay5/362586/57493?checkedby:alliptvlinks.com
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/RDS2_HD.PNG"  tvg-name="RDS2 HD" group-title="CA| CANADA",RDS2 HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.start.ca/wp-content/uploads/2022/09/StartTV_ChannelLogos_RDS2.png"  tvg-name="RDS2 HD" group-title="CA| CANADA",RDS2 HD
 http://cord-cutter.net:8080/k4Svp2/645504/57490?checkedby:alliptvlinks.com
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images.seeklogo.com/logo-png/31/2/tsn-1-logo-png_seeklogo-314693.png" tvg-name="TSN 1"  group-title="CA| CANADA",TSN 1
 http://cord-cutter.net:8080/k4Svp2/645504/57292?checkedby:alliptvlinks.com
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/default.png" tvg-name="TVA"  group-title="CA| CANADA",TVA
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/3840px-TVA_logo_2020.svg.png" tvg-name="TVA"  group-title="CA| CANADA",TVA
 https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/default.png" tvg-name="LCN"  group-title="CA| CANADA",LCN
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Le_Canal_Nouvelles_logo_2020.svg/1280px-Le_Canal_Nouvelles_logo_2020.svg.png" tvg-name="LCN"  group-title="CA| CANADA",LCN
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/default.png" tvg-name="Cartoon Network"  group-title="CA| CANADA",Cartoon Network
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Cartoon_network_modified_logo.PNG" tvg-name="Cartoon Network"  group-title="CA| CANADA",Cartoon Network
 http://cord-cutter.net:8080/k4Svp2/645504/57356?checkedby:alliptvlinks.com
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/default.png" tvg-name="Teletoon"  group-title="CA| CANADA",Teletoon
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/T%C3%A9l%C3%A9toon_2014_logo.png/960px-T%C3%A9l%C3%A9toon_2014_logo.png" tvg-name="Teletoon"  group-title="CA| CANADA",Teletoon
 http://cord-cutter.net:8080/k4Svp2/645504/57372?checkedby:alliptvlinks.com
 
 # ============================================
