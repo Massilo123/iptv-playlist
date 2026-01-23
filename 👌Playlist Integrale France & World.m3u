@@ -4,13 +4,13 @@
 # CANADA - CA| CANADA
 # ============================================
 
-#EXTINF:-1,"IciRDI.ca" "ICI RDI" "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" "CA| CANADA",ICI RDI
+#EXTINF:-1, tvg-id="IciRDI.ca" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" group-title="CA| CANADA",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/default.png" tvg-name="ICI Tele Quebec HD "  group-title="CA| CANADA",ICI Tele Quebec HD
 http://tv14s.xyz:8080/A1Jay5/362586/57493?checkedby:alliptvlinks.com
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/default.png" tvg-name="RDS2 HD"  group-title="CA| CANADA",RDS2 HD
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/RDS2_HD.PNG"  group-title="CA| CANADA",RDS2 HD
 http://cord-cutter.net:8080/k4Svp2/645504/57490?checkedby:alliptvlinks.com
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://safiafamily.com/uploads/family/african/default.png" tvg-name="TSN 1"  group-title="CA| CANADA",TSN 1
