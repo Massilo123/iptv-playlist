@@ -3,9 +3,13 @@
 # ============================================
 # CANADA - CA| CANADA
 # ============================================
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" group-title="CA| CANADA",Bein sports 1
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/p0CgIQu_WcESI-YK5zy9w1-f-bF39ahiasHR4dvTy6ioASEArIxu5BYegtBkkBJjwOCPlvxe-ESKQZbZkjmQd6YgAfj8oTmzuQsD0hn4iRqvuhZoMvlU-uJxjAWEefZnDhOQCezK9DqouPbHrr3XAAD0rJIVyWt0ekxqQTP5v8M/hls/index.m3u8
 
 #EXTINF:-1, tvg-id="IciRDI.ca" tvg-name="ICI RDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/640px-ICI_RDI_logo.svg.png" group-title="CA| CANADA",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+
+https://streamysport.xyz/stream/ch08/
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/04/ICI_T%C3%A9l%C3%A9_logo.svg/langfr-330px-ICI_T%C3%A9l%C3%A9_logo.svg.png" tvg-name="ICI Tele Quebec HD "  group-title="CA| CANADA",ICI Tele Quebec HD
 http://tv14s.xyz:8080/A1Jay5/362586/57493?checkedby:alliptvlinks.com
